@@ -1,0 +1,47 @@
+---
+title: "Getting Ready for the Non-Academic Job Market"
+output: rmdcss::html_air
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+H/T to `Shawnna Mullenax` for providing a bunch of useful tips that I incorporated into this document. 
+
+## Let's Do This! 
+
+Navigating the non-academic world can be very intimidating. The variety of institutions that you could work for and the roles you might hold in them are numerous. This guide is meant to provide simple and practical tips to help you survive and thrive outside of the walls of academia. 
+
+### Practical Tips
+* Convert your CV to a Resumé.
+    + CV's are publication-, teaching-, and service-forward, your Resumé needs to be SKILLS forward. Highlight what you can do, and provide evidence. 
+* Sell your PhD. 
+    + Some companies do not know the value of hiring a PhD, you may need to sell them on the skills you've gained along the way.  
+* Get in any last bits of education that may be useful.
+     + Take advantage of any opportunities to get extra data certifications or trainings that you can put on your resume (Get some experience with R if you don't have it!)
+* Start a LinkedIn. 
+    + Fill it in, and think about what skills/experiences analytics employers might want that you can get while you finish up. Experience working on a team and leading some kind of research project/team are high priority. Most people worry that although PhDs can do the work they can't work with people. 
+* Start seeking out the "non-academic careers" talks and opportunities at conferences. 
+    + There are more and more of these as ties between academia and non-academia grow stronger and more virtuous.
+* Talk to some who has landed the kind of job you want. 
+    + X person just landed an analytics job she LOVES in Denver and interviewed for a few others. They can give you some good ideas about that market. 
+* Follow "Beyond the Professorate" on Twitter and check out their free materials. 
+    + Get on Twitter. 
+* For outside of Denver, think about how you could form a relationship with government orgs or NGO's that you would like to work with while you are working on your dissertation. 
+    + Maybe that's just talking to them about data they have that you like/ could help build out or seeing if you could volunteer with them for a summer while you also write. I know that is easier said than done, but many folks in DC made some connection with their first employer while they were in school. 
+    
+### Tips for Government Jobs
+* Watch a webinar to learn how to find and apply for federal jobs. See link here: https://www.usajobs.gov/Notification/Events/
+* Start early, jobs that require clearances can take close to a year to finish up their background checks, so you want to make sure you have a lot of runway to survive during that period of waiting. 
+* Don't use drugs if you want to work for the government. 
+    + A lot of gov't agencies (e.g. the census, DOD) require a clearance of at least a year with no marijuana. That includes jobs you wouldn't expect, like analyzing survey data to figure out how to get Americans living abroad to fill out their absentee voter forms. It's something that just doesn't seem like a big deal when you're in CO, but it's a hurdle you have to clear to work with any data the government deems "sensitive".. which is most of its data.
+    
+### Impractical Tips
+
+* Don't cut ties to your academic friends, but do communicate your plans as necessary. 
+    + Ties between academia and the non-academic sectors are growing, you may be in a position to get cool data to your academic friends, and even continue doing publishable research. Sometimes leaving academia actually gets you closer to cool data. 
+* Talk to your coauthors about your plans and your timeline. Assure them that you'll still fulfill your obligations to publish work you've started. 
+* Dip your toes in the water as soon as possible. The non-academic world is wide, be sure to see the full picture. If possible, go on interviews, and get a sense of the kind of place you'd want to work. 
+
+    
