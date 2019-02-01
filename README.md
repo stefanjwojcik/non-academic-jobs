@@ -1,4 +1,4 @@
-# Getting Ready For Non-Academic Job Market
+# Getting Ready for the Non-Academic Job Market
 A handful of tips for social scientists seeking work outside of academia. 
 
 H/T to `Shawnna Mullenax` for providing a bunch of useful tips that I incorporated into this document. 
