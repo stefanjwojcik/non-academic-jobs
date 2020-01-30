@@ -24,7 +24,7 @@ Navigating the non-academic world can be very intimidating. The variety of insti
     + Get on Twitter. 
 * For outside of Denver, think about how you could form a relationship with government orgs or NGO's that you would like to work with while you are working on your dissertation. 
     + Maybe that's just talking to them about data they have that you like/ could help build out or seeing if you could volunteer with them for a summer while you also write. I know that is easier said than done, but many folks in DC made some connection with their first employer while they were in school. 
-* Build a non-academic writing portfolio by publishing in outlets like the Conversation or by producing cool online data viz pieces. You must prove that you can communicate outside your bubble. You'll look more credible if you start early. (credit and consent - @curtismbell)
+* Build a non-academic writing portfolio by publishing in outlets like the Conversation or by producing cool online data viz pieces. You must prove that you can communicate outside your bubble. You'll look more credible if you start early (credit - @curtismbell)
     
 ### Tips for Government Jobs
 * Watch a webinar to learn how to find and apply for federal jobs. See link here: https://www.usajobs.gov/Notification/Events/
@@ -38,3 +38,4 @@ Navigating the non-academic world can be very intimidating. The variety of insti
     + Ties between academia and the non-academic sectors are growing, you may be in a position to get cool data to your academic friends, and even continue doing publishable research. Sometimes leaving academia actually gets you closer to cool data. 
 * Talk to your coauthors about your plans and your timeline. Assure them that you'll still fulfill your obligations to publish work you've started. 
 * Dip your toes in the water as soon as possible. The non-academic world is wide, be sure to see the full picture. If possible, go on interviews, and get a sense of the kind of place you'd want to work. 
+* Accept that PhDs can intimidate people. For some members of an interview committee, you will have to go in to prove that you are not an arrogant and impossible person. Be confident, be humble, be excited about how your skills can be useful, but do not assume you know better (credit - @curtismbell)
