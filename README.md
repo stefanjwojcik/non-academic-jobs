@@ -9,7 +9,7 @@ Navigating the non-academic world can be very intimidating. The variety of insti
 
 ### Practical Tips
 * Convert your CV to a Resumé.
-    + CV's are publication-, teaching-, and service-forward, your Resumé needs to be SKILLS forward. Highlight what you can do, and provide evidence. 
+    + CV's are publication-, teaching-, and service-forward, your Resumé needs to be SKILLS forward. Highlight what you can do, and provide evidence. Tailor it to the job you are applying for.
 * Sell your PhD. 
     + Some companies do not know the value of hiring a PhD, you may need to sell them on the skills you've gained along the way.  
 * Get in any last bits of education that may be useful.
@@ -21,10 +21,12 @@ Navigating the non-academic world can be very intimidating. The variety of insti
 * Talk to some who has landed the kind of job you want. 
     + X person just landed an analytics job she LOVES in Denver and interviewed for a few others. They can give you some good ideas about that market. 
 * Follow "Beyond the Professorate" on Twitter and check out their free materials. 
-    + Get on Twitter. 
+    + Get on Twitter _and connect_ with people on Twitter.
 * For outside of Denver, think about how you could form a relationship with government orgs or NGO's that you would like to work with while you are working on your dissertation. 
     + Maybe that's just talking to them about data they have that you like/ could help build out or seeing if you could volunteer with them for a summer while you also write. I know that is easier said than done, but many folks in DC made some connection with their first employer while they were in school. 
 * Build a non-academic writing portfolio by publishing in outlets like the Conversation or by producing cool online data viz pieces. You must prove that you can communicate outside your bubble. You'll look more credible if you start early (credit - @curtismbell)
+* Start building a non-ac network early.
+    + There's no shame (and no harm) in sending "cold" emails, connecting with like-minded people on LinkedIn and beyond, and scheduling numerous "coffee" chats to get your foot in the door.
     
 ### Tips for Government Jobs
 * Watch a webinar to learn how to find and apply for federal jobs. See link here: https://www.usajobs.gov/Notification/Events/
