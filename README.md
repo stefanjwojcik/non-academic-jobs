@@ -1,7 +1,7 @@
 # Getting Ready for the Non-Academic Job Market
 A handful of tips for social scientists seeking work outside of academia. 
 
-H/T to `Shawnna Mullenax` and `Curtis Bell` for providing a bunch of useful tips that I incorporated into this document. 
+H/T to `Shawnna Mullenax`, `Curtis Bell`, and `Stefani Langehennig for providing a bunch of useful tips that I incorporated into this document. 
 
 ## Let's Do This! 
 
